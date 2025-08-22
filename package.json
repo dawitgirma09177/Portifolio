@@ -1,0 +1,5 @@
+package.json
+src/ folder
+public/ folder
+node_modules/
+.gitignore
